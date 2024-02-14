@@ -1,0 +1,24 @@
+1. Nombre: Juan Sebastian Sanchez Nova
+2. Edad: 20
+3. Colegio: Colcato
+
+
+Supongo que te refieres a Linus Torvalds, el creador del kernel de Linux. Aquí tienes una breve biografía:
+
+Biografía de Linus Torvalds
+
+Linus Benedict Torvalds nació el 28 de diciembre de 1969 en Helsinki, Finlandia. Es un ingeniero de software finlandés-estadounidense, mejor conocido por ser el creador y principal desarrollador del kernel de Linux, el corazón del sistema operativo Linux.
+
+Linus descubrió su interés por la programación desde una edad temprana, utilizando una Commodore VIC-20 que su abuelo le dio cuando era niño. Más tarde, en la universidad, estudió ciencias de la computación en la Universidad de Helsinki.
+
+La creación de Linux tuvo lugar en 1991, cuando Torvalds era un estudiante de informática de 21 años. Comenzó a trabajar en un proyecto personal para crear un sistema operativo que fuera similar a Unix, pero que fuera de código abierto y pudiera ejecutarse en hardware de PC común. Así nació el kernel de Linux.
+
+Linus lanzó la primera versión del kernel de Linux en septiembre de 1991, lo que marcó el inicio de un proyecto que eventualmente se convertiría en uno de los sistemas operativos más populares y exitosos del mundo. El desarrollo de Linux se ha convertido en un esfuerzo colaborativo masivo, con miles de desarrolladores de todo el mundo contribuyendo al código.
+
+A lo largo de los años, Linus ha seguido siendo la figura central en el desarrollo de Linux, coordinando las contribuciones de otros desarrolladores y manteniendo la estabilidad y coherencia del kernel. Su liderazgo ha sido fundamental para el éxito continuo del proyecto.
+
+Además de su trabajo en Linux, Torvalds ha sido reconocido con numerosos premios y honores, incluido el Premio Millennium Technology Prize en 2012, uno de los premios más prestigiosos en el campo de la tecnología.
+
+En resumen, Linus Torvalds es un visionario de la informática que ha dejado un impacto indeleble en la industria tecnológica con su creación del kernel de Linux, y su legado continuará influyendo en el mundo de la tecnología en los años venideros.
+
+Es importante tener en cuenta que, aunque esta es una biografía breve, Linus Torvalds ha tenido un impacto significativo en el mundo de la tecnología y su contribución con Linux ha sido fundamental para el desarrollo del software de código abierto y la democratización del acceso a la tecnología.
